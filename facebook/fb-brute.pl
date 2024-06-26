@@ -12,7 +12,7 @@
 # Module Requirements:
 #
 # Install module if missing:
-# perl -MCPAN -e 'install Net::SSLeay'
+ perl -MCPAN -e 'install Net::SSLeay'
 #
 # Demo:
 # perl Imad'Ox-Bruter.pl Facebooklogin@facebook.com wordlist.lst
